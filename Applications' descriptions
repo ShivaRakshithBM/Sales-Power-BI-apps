@@ -3,6 +3,10 @@ Created 3 dashboards for different level of Personas in the organisation
 2) DOS - Director of Sales - USed by ~50 people
 3) AE and NAE - Account Executives and National Account Executives - Used by ~650 people
 
+All the dashboards had security systems set up in it. Only the users details would be available when user sings using single sign on authentication system
+A plug in called Narrative science was used which would analyse the bar graphs and the line charts and give NLP generated text comments
+
+Desktop view:
 Metrics below were shown using Speedometer graphs:
 -- MTD Pricing Agreeement Revenue Attainment %
 -- MTD Territory Revenue Attainment %
@@ -29,4 +33,12 @@ Perfect shipment metrics like
 -- On time pickup
 -- Damage frequency
 -- Invoice accuracy% were also added
+
+Mobile View:
+Only the important metrics from the above were displayed. If they wanted more info, they would have to open their ipad or laptop to view the same. Mobile views were created with the intention of having the users see their data when they are with the customers
+
+Formatting:
+All official brand logos and brand fonts, sizes and shapes were used for the ceation of the views
+
+
 
