@@ -1,0 +1,32 @@
+Created 3 dashboards for different level of Personas in the organisation
+1) RSVP - Regional Sales Vice presidents - Used by ~25 people
+2) DOS - Director of Sales - USed by ~50 people
+3) AE and NAE - Account Executives and National Account Executives - Used by ~650 people
+
+Metrics below were shown using Speedometer graphs:
+-- MTD Pricing Agreeement Revenue Attainment %
+-- MTD Territory Revenue Attainment %
+-- Last Cost Month PA Rev Attainment %
+-- Last Cost Month Terr Rev Attainment %
+-- Last Cost Month Profit Attaintmtnet %
+
+Displayed trends using line graphs for
+-- PA Rev
+-- Territory Rev
+
+Displayed Bar graph trends for all DOS
+-- PA Rev Gap to Goal MTD
+-- Terr Rev Gap to Goal MTD
+
+HAd metrics of Accounts Receivables, Claims paid, Face to Face calls/day, phone calls / day, RFPs submitted by type, RFPs closed, Promise amount, potential amount.
+The amount in each stage of sales pipeline was shown in a bar graph in descending order of stages.
+
+Also all the call details amd the needs from the call output and action items were recorded and displyed for each customer level.
+The growth opportunities like Annual profit improvement target and Peer group based pricing opportunity were also displayed.
+
+Perfect shipment metrics like
+-- On time delivery
+-- On time pickup
+-- Damage frequency
+-- Invoice accuracy% were also added
+
