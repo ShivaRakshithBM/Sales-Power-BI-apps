@@ -5,6 +5,7 @@ Created 3 dashboards for different level of Personas in the organisation
 
 All the dashboards had security systems set up in it. Only the users details would be available when user sings using single sign on authentication system
 A plug in called Narrative science was used which would analyse the bar graphs and the line charts and give NLP generated text comments
+Third party visualizations were also used in the dashboards.
 
 I had multiple F2F, video and audio calls with the sales users of the dashboards on  a daily basis through out the 5 stages that were present in this project
 1) inception phase
