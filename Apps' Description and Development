@@ -3,11 +3,13 @@ Created 3 dashboards for different level of Personas in the organisation
 2) DOS - Director of Sales - USed by ~50 people
 3) AE and NAE - Account Executives and National Account Executives - Used by ~650 people
 
-All the dashboards had security systems set up in it. Only the users details would be available when user sings using single sign on authentication system
+All the dashboards had security systems set up in it. Only the users details would be available when user sings using single sign
+on authentication system
 A plug in called Narrative science was used which would analyse the bar graphs and the line charts and give NLP generated text comments
 Third party visualizations were also used in the dashboards.
 
-I had multiple F2F, video and audio calls with the sales users of the dashboards on  a daily basis through out the 5 stages that were present in this project
+I had multiple F2F, video and audio calls with the sales users of the dashboards on  a daily basis through out the 5 stages that were
+present in this project
 1) inception phase
 2) development phase 
 3) testing phase
@@ -33,7 +35,8 @@ Displayed Bar graph trends for all DOS
 -- PA Rev Gap to Goal MTD
 -- Terr Rev Gap to Goal MTD
 
-HAd metrics of Accounts Receivables, Claims paid, Face to Face calls/day, phone calls / day, RFPs submitted by type, RFPs closed, Promise amount, potential amount.
+Had metrics of Accounts Receivables, Claims paid, Face to Face calls/day, phone calls / day, RFPs submitted by type, RFPs closed,
+Promise amount, potential amount.
 The amount in each stage of sales pipeline was shown in a bar graph in descending order of stages.
 
 Also all the call details amd the needs from the call output and action items were recorded and displyed for each customer level.
@@ -46,7 +49,8 @@ Perfect shipment metrics like
 -- Invoice accuracy% were also added
 
 Mobile View:
-Only the important metrics from the above were displayed. If they wanted more info, they would have to open their ipad or laptop to view the same. Mobile views were created with the intention of having the users see their data when they are with the customers
+Only the important metrics from the above were displayed. If they wanted more info, they would have to open their ipad or laptop to 
+view the same. Mobile views were created with the intention of having the users see their data when they are with the customers
 
 Formatting:
 All official brand logos and brand fonts, sizes and shapes were used for the ceation of the views
