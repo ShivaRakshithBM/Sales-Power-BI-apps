@@ -1,20 +1,36 @@
+Current State: There is a single dashboard which shows data regarding Sales metrics and performance, which is used by the Leadership team. 
+For others in the business, there are only Microstrategy subscriptions that are sent out on a daily basis. The AEs have to 
+leverage multiple subscription reports to take an informed decision resulting in low performance and effectiveness.
+
+Final State: There is apps for different personas inside the company customized separately for each of them.
+All the Microstrategy reports and subscriptions were retired after the deployment of the apps to the business.
+
 Created 3 dashboards for different level of Personas in the organisation
 1) RSVP - Regional Sales Vice presidents - Used by ~25 people
 2) DOS - Director of Sales - USed by ~50 people
 3) AE and NAE - Account Executives and National Account Executives - Used by ~650 people
 
-All the dashboards had security systems set up in it. Only the users details would be available when user sings using single sign
-on authentication system
+The 5 stages that were used by me are:
+
+1) inception phase:
+I had multiple F2F, video and audio calls with the sales users of the dashboards on  a daily basis through out the process.
+Understood how the Sales team work. Finalized on the personas that would be targetted during the process.
+
+2) development phase:
 A plug in called Narrative science was used which would analyse the bar graphs and the line charts and give NLP generated text comments
 Third party visualizations were also used in the dashboards.
 
-I had multiple F2F, video and audio calls with the sales users of the dashboards on  a daily basis through out the 5 stages that were
-present in this project
-1) inception phase
-2) development phase 
-3) testing phase
-4) deployment phase
-5) support phase
+3) testing phase:
+Tested the dashboards by logging in as a single AE and saw only their metrics. Created a pilot group of 5% of the users for each persona
+app and then deployed to them. Took continuous feedback from the users, did iterative changes and then completed the developemnt and testing 
+phases
+
+4) deployment phase:
+All the dashboards had security systems set up in it. Only the users details would be available when user sings using single sign
+on authentication system before the deployment of the dashboards. 
+
+5) support phase:
+Initially there is full support provided by me
 
 Based on the users survey response, there was an increase of 30% in better decision making abilities.
 With more iterations of the dashboard after collecting the feedback from the end users, this number will go up.
